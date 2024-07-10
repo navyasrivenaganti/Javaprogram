@@ -1,9 +1,7 @@
 package com.tnsif.finaldemo;
 
 public class Demo extends Finaldemo {
-	
-
-	final void change () {
+	void change() {
 		 System.out.println("default");
 	}
 
