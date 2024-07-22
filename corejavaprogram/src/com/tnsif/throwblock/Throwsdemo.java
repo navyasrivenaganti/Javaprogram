@@ -3,7 +3,9 @@ package com.tnsif.throwblock;
 import java.io.IOException;
 
 public class Throwsdemo {
-	static void display()throws IOException
-	throw new IOException()
-
+	public static void main(String[] args) {
+		
+	static void display( throws IOException)
+	throw new IOException();
+	}
 }

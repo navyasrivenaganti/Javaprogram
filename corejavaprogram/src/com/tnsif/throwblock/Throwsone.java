@@ -5,7 +5,7 @@ public class Throwsone {
 		Throwsdemo d=new Throwsdemo();
 		try {
 			d.display();
-			
+			System.out.println(d);
 		}
 	}
 
