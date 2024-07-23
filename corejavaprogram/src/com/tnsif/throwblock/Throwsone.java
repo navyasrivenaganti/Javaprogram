@@ -4,7 +4,7 @@ public class Throwsone {
 	public static void main(String[] args) {
 		Throwsdemo d=new Throwsdemo();
 		try {
-			d.display();
+			 d.display();
 			System.out.println(d);
 		}
 	}
